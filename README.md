@@ -4,6 +4,7 @@ a small piece of code to automate collectionTypes in symfony
 Following settings currently exists:
 
 Option | Type | Default | Description
+------ | ---- | ------- | -----------
 data-index | integer | 0 | set a different start point
 data-placeholder | string | "__name__" | what should be replaced by the index
 data-buttonId | string | none | search for button with id or creates button with id
