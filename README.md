@@ -1,6 +1,19 @@
 # Symfony-Collection-Automation
 a small piece of code to automate collectionTypes in symfony
 
+#TO-DO
+adding additional event-listener to children
+
+#How to use
+just add following row to your head
+```HTML
+<script src="./symfony-collection.js"></script>
+```
+it will automatically search for elements with the data-prototype attribute.
+```HTML
+<div data-prototype="<input name="collection[__name__]"/ value="__name__">"></div>
+```
+
 Following settings currently exists:
 
 Option | Type | Default | Description
