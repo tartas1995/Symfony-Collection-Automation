@@ -1,7 +1,7 @@
 # Symfony-Collection-Automation
 a small piece of code to automate collectionTypes in symfony
 
-#TO-DO
+# TO-DO
 adding additional event-listener to children
 
 #How to use
