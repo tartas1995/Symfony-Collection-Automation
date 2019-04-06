@@ -4,7 +4,7 @@ a small piece of code to automate collectionTypes in symfony
 # TO-DO
 adding additional event-listener to children
 
-#How to use
+# How to use
 just add following row to your head
 ```HTML
 <script src="./symfony-collection.js"></script>
